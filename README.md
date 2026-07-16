@@ -62,7 +62,7 @@ shopping-cart/
 1. Download or clone the project.
 
 ```bash
-git clone https://github.com/your-username/shopping-cart.git
+git clone https://github.com/ajinkya029/Shopping-Cart.git
 ```
 
 2. Open the project folder.
